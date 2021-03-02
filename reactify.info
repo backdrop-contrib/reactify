@@ -1,0 +1,6 @@
+type = module
+name = Reactify
+description = Easily add React Components to your modules.
+backdrop = 1.x
+package = React
+configure = admin/config/content/react
